@@ -1,4 +1,7 @@
 public class Solution {
+    
+    /*This code translates a Roman Numeral Sequence to Regular Digits.
+      This code performs in O(n);
     /*
     behavior notes: a smaller number PRECEEDING a bigger number causes a subtraction of the smaller number
     from the bigger number.
